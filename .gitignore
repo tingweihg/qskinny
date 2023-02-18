@@ -13,3 +13,5 @@ qskinny.pro.user
 *.o
 *.log
 html
+*.user
+build/
